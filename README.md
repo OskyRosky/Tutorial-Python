@@ -1,4 +1,4 @@
 # Tutorial-Python
 Curso completo sobre Python
 
- ![class](/ima/webp.png)
+ ![class](/ima/ima1.webp)
